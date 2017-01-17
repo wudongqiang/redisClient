@@ -1,0 +1,18 @@
+
+xsquid:S1188"\Reduce this anonymous class number of lines from 49 to at most 20, or make it a named class.(•‘ˆ8À¦ïÑš+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´¸·Ïıÿÿÿÿ8Ë‹Ñš+
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚ºÖÙ
+Isquid:S1066"/Merge this if statement with the enclosing one.(¶ä‹‚ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³¤°Çüÿÿÿÿ
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(÷»İÌûÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(÷ªÒ¢úÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(°òÅúûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Ä­ù
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òÏ¥•úÿÿÿÿ
+[squid:S3027"FPut single-quotes around '(' to use the faster "indexOf(char)" method.(íÜƒ—
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Äš’8Ë‹Ñš+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Ë€Óùÿÿÿÿ8Ë‹Ñš+
+a
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‘˜û|
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´¥Öïúÿÿÿÿ8÷™‘Ôš+

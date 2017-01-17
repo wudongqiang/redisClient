@@ -1,0 +1,22 @@
+
+bsquid:S3027"FPut single-quotes around '(' to use the faster "indexOf(char)" method.(íÜƒ—8¥ÈÞ§š+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™–éŠùÿÿÿÿ8ÀÂ—¶š+
+h
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‘˜û|8¥ÈÞ§š+
+osquid:UselessImportCheck"FRemove this unused import 'org.apache.commons.lang.RandomStringUtils'.(²§úò8¥ÈÞ§š+
+Psquid:S1066"/Merge this if statement with the enclosing one.(§âý”ùÿÿÿÿ8¹ÒžÒš+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(þñÊëÿÿÿÿÿ8¥ÈÞ§š+
+Jsquid:S1481")Remove this unused "node" local variable.(‚Ýå±ùÿÿÿÿ8¥ÈÞ§š+
+Tsquid:S1313"3Make this IP "192.168.31.121" address configurable.(´Ž‚“ùÿÿÿÿ8¼ûË¨š+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚ºÖÙ8¥ÈÞ§š+
+gsquid:UselessImportCheck">Remove this unused import 'java.awt.event.MouseWheelListener'.(ÆÇŒü8Ô›…Òš+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú†–Î8¥ÈÞ§š+
+xsquid:S1188"\Reduce this anonymous class number of lines from 51 to at most 20, or make it a named class.(•‘ˆ8¥ÈÞ§š+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òÏ¥•úÿÿÿÿ8¥ÈÞ§š+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(÷ªÒ¢úÿÿÿÿ8¥ÈÞ§š+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Ä­ù8¥ÈÞ§š+
+vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(÷»ÝÌûÿÿÿÿ8¥ÈÞ§š+
+csquid:UselessImportCheck";Remove this unused import 'java.awt.event.MouseWheelEvent'.(Òµär8Ô›…Òš+
+Tsquid:S1313"3Make this IP "192.168.31.121" address configurable.(úäª×þÿÿÿÿ8¥ÈÞ§š+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³¤°Çüÿÿÿÿ8¥ÈÞ§š+

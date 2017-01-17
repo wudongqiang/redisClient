@@ -1,0 +1,16 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¾ÓÉþÿÿÿÿ8ÖÏŸ©š+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ð´ŽÀ8ê¨œ¶š+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ÜŽ¾8ú¾¦µš+
+zsquid:S1450"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ8•ÌŒ¨š+
+_squid:UnusedPrivateMethod"0Remove this unused private "createTable" method.(·ßÏîýÿÿÿÿ8•ÌŒ¨š+
+Msquid:S1444",Make this "public static height" field final(‹øòðüÿÿÿÿ8þŒ¼©š+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·à©•ÿÿÿÿÿ8•ÌŒ¨š+
+‰"squid:ClassVariableVisibilityCheck"QMake width a static final constant or non-public and provide accessors if needed.(—°É’ûÿÿÿÿ8¤÷»©š+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ðø÷ì8•ÌŒ¨š+
+osquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÏòÃüÿÿÿÿ8•ÌŒ¨š+
+Osquid:S2387"."width" is the name of a field in "Component".(—°É’ûÿÿÿÿ8•ÌŒ¨š+
+Lsquid:S1444"+Make this "public static width" field final(—°É’ûÿÿÿÿ8¤÷»©š+
+Psquid:S2387"/"height" is the name of a field in "Component".(‹øòðüÿÿÿÿ8•ÌŒ¨š+
+Š"squid:ClassVariableVisibilityCheck"RMake height a static final constant or non-public and provide accessors if needed.(‹øòðüÿÿÿÿ8þŒ¼©š+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¬® úÿÿÿÿ8•ÌŒ¨š+

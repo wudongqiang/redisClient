@@ -1,0 +1,8 @@
+
+Ysquid:S1854"8Remove this useless assignment to local variable "last".(ûä‡•øÿÿÿÿ8•ÌŒ¨š+
+‘ squid:MethodCyclomaticComplexity"`The Cyclomatic Complexity of this method "formatJson" is 11 which is greater than 10 authorized.(¼Þ´…8•ÌŒ¨š+
+Šsquid:S1151"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(œ°Ïïþÿÿÿÿ8•ÌŒ¨š+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(êÇ±Û8•ÌŒ¨š+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Æ³üö8•ÌŒ¨š+
+vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(±‰Úüùÿÿÿÿ8•ÌŒ¨š+
